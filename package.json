@@ -1,0 +1,23 @@
+{
+  "name": "myprojjs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaivor/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaivor/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Gaivor/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
